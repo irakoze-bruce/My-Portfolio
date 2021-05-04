@@ -1,0 +1,13 @@
+/** @format */
+
+.NavBar {
+  width: 200px;
+  margin-top: 3em;
+  margin-right: 10em;
+  display: flex;
+}
+.NavBar ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}

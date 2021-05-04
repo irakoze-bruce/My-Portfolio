@@ -1,0 +1,20 @@
+/** @format */
+
+.NavbarItem {
+  padding: 0 1.5em;
+  list-style: none;
+}
+
+.NavbarItem a {
+  text-transform: capitalize;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.NavbarItem a:hover,
+.NavbarItem a:active,
+.NavbarItem a.active {
+  color: #06bc9b;
+  border-bottom: 4px solid #06bc9b;
+}

@@ -1,0 +1,9 @@
+/** @format */
+
+.Navigation {
+  width: 900px;
+  margin: 0 auto;
+  height: 127px;
+  display: flex;
+  justify-content: space-between;
+}
