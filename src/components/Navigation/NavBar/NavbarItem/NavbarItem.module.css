@@ -8,8 +8,9 @@
 .NavbarItem a {
   text-transform: capitalize;
   text-decoration: none;
-  color: black;
+  color: #5a5a5a;
   font-weight: bold;
+  font-size: 1.2rem;
 }
 
 .NavbarItem a:hover,

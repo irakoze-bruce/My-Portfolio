@@ -10,7 +10,6 @@ function Logo(props) {
     <Aux>
       <div className={style.Logo}>
         <a href='/'>
-          {" "}
           <img src={logoImage} alt='Bruce ' />
         </a>
       </div>

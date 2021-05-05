@@ -1,12 +1,13 @@
 /** @format */
 
 import React from "react";
-
+import Aux from "../../hoc/Aux";
+import Banner from "../../components/Banner/Banner";
 function PortfolioBuilder(props) {
   return (
-    <div>
-      <h1>Bruce </h1>
-    </div>
+    <Aux>
+      <Banner />
+    </Aux>
   );
 }
 
